@@ -7,7 +7,7 @@ FontSize = 60
  
 pygame.init()
  
-background_image = pygame.transform.scale(pygame.image.load("pet_bg.jpg"),(Width, Height))
+background_image = pygame.transform.scale(pygame.image.load("images (2).jpeg"),(Width, Height))
  
 font = pygame.font.SysFont("Arial",FontSize)
 class Sprite(pygame.sprite.Sprite):
